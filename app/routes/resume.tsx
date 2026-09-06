@@ -2,7 +2,7 @@ import { memo, useEffect, useState } from 'react';
 import { Link, useNavigate, useParams } from 'react-router';
 import Ats from '~/components/ats';
 import Details from '~/components/details';
-import Summary from '~/components/Summary';
+import Summary from '~/components/summary';
 import { usePuterStore } from '~/lib/puter';
 
 
