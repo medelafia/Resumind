@@ -6,6 +6,7 @@ The application uses **React Router v8**, **Zustand**, and **Puter.js** to provi
 
 🔗 **Repository:** https://github.com/medelafia/Resumind
 
+🌐 **Live Demo:** https://gentle-sun-36389.puter.site/
 ---
 
 ## ✨ Features
@@ -434,4 +435,5 @@ AI • Full-Stack Development • Cloud-Native Technologies
 If you find this project interesting, consider giving the repository a ⭐ on GitHub.
 
 **GitHub:** https://github.com/medelafia/Resumind
-**Demo:** https://gentle-sun-36389.puter.site/
+
+**Live Demo:** https://gentle-sun-36389.puter.site/
