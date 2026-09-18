@@ -5,7 +5,6 @@
 The application uses **React Router v8**, **Zustand**, and **Puter.js** to provide authentication, file storage, and AI-powered resume analysis without requiring a traditional custom backend server.
 
 🔗 **Repository:** https://github.com/medelafia/Resumind
-
 🌐 **Live Demo:** https://gentle-sun-36389.puter.site/
 ---
 
@@ -434,6 +433,5 @@ AI • Full-Stack Development • Cloud-Native Technologies
 
 If you find this project interesting, consider giving the repository a ⭐ on GitHub.
 
-**GitHub:** https://github.com/medelafia/Resumind
-
+**GitHub:** https://github.com/medelafia/Resumind | 
 **Live Demo:** https://gentle-sun-36389.puter.site/
